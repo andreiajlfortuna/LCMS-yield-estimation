@@ -14,11 +14,17 @@ This pipeline addresses yield computation by:
 
 ## Project Structure
 
+# Main script for yield estimation
+- estimate_yields.py
+- yields.csv
+- find_MS_peaks.py
+
+
 📂 data/ # LCMS/UV data files for each reaction and molecular_weights.json file with the molecular weights of expected products
-- estimate_yields.py # Main script for yield estimation
 - molecular_weights.json # Molecular weights of expected products
-- yields.csv # Output: estimated yields for each reaction
-- README.md
+- R5985_MS_minus.csv
+- R5985_MS_plus.csv
+- R5985_PDA.csv
 
 ## ⚙️ estimate_yields.py
 
