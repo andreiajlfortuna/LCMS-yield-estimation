@@ -29,7 +29,7 @@ This pipeline addresses yield computation by:
 - example of LCMS and UV data files:
    * R5985_MS_minus.csv
    * R5985_MS_plus.csv
-   * *R5985_PDA.csv
+   * R5985_PDA.csv
 
 ## ⚙️ estimate_yields.py
 
