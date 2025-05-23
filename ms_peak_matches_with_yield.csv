@@ -1,0 +1,25 @@
+reaction_id,mode,expected_mz,theoretical_mw,retention_time_uv,retention_time_ms,mz_closest,signal_std,signal_rxn,snr_std,snr_rxn,peak_found_in_std,peak_found_in_rxn,match_confirmed,caffeine_peak_found_std,caffeine_peak_found_rxn,yield (%)
+R0075876,plus,241,240.1,1.2396,1.2813,241.0000,1.000,0.000,182.858,0.163,True,False,False,True,True,0.93
+R0075876,minus,239,240.1,1.2396,1.2813,239.0000,0.000,0.000,0.046,0.068,False,False,False,False,False,0.93
+R0075838,plus,227,226.1,1.4596,1.5013,227.0000,0.000,0.000,0.203,0.165,False,False,False,True,True,0.89
+R0075838,minus,225,226.1,1.4596,1.5013,225.0000,0.000,0.000,11.702,0.158,False,False,False,False,False,0.89
+R0075854,plus,189,188.06,1.4679,1.5096,189.0000,0.000,0.000,0.251,0.063,False,False,False,True,False,68.31
+R0075854,minus,187,188.06,1.4679,1.5096,187.0000,0.000,0.000,3.055,1.861,False,False,False,False,False,68.31
+R0075900,plus,181,180.05,0.6958,0.7375,181.0000,0.800,0.000,183.009,0.503,True,False,False,True,True,0.28
+R0075900,minus,179,180.05,0.6958,0.7375,179.0000,0.000,0.000,1.194,0.131,False,False,False,False,False,0.28
+R0075843,plus,159,158.08,1.1767,1.2184,159.0000,0.900,0.100,148.760,35.450,True,True,True,True,True,3.94
+R0075843,minus,157,158.08,1.1767,1.2184,157.0000,0.000,0.000,0.102,0.072,False,False,False,False,False,3.94
+R0075885,plus,190,189.05,0.7208,0.7625,190.0000,0.700,0.000,115.312,0.029,True,False,False,False,True,0.72
+R0075885,minus,188,189.05,0.7208,0.7625,188.0000,0.200,0.000,126.793,0.050,True,False,False,False,False,0.72
+R0075857,plus,185,184.09,1.4888,1.5305,185.0000,0.000,0.000,2.651,0.228,False,False,False,True,False,4.8
+R0075857,minus,183,184.09,1.4888,1.5305,183.0000,0.000,0.000,0.287,0.081,False,False,False,False,False,4.8
+R0075775,plus,192,191.05,,,192.0000,0.000,0.000,0.171,0.041,False,False,False,True,True,0.0
+R0075775,minus,190,191.05,,,190.0000,0.000,0.000,0.112,0.438,False,False,False,False,False,0.0
+R0075797,plus,184,183.1,0.9846,1.0263,184.0000,1.000,0.400,203.580,128.451,True,True,True,True,True,28.45
+R0075797,minus,182,183.1,0.9846,1.0263,182.0000,0.000,0.000,0.055,0.072,False,False,False,False,False,28.45
+R0075919,plus,145,144.07,0.6508,0.6925,145.0000,0.600,0.000,130.794,0.393,True,False,False,True,False,0.18
+R0075919,minus,143,144.07,0.6508,0.6925,143.0000,0.000,0.000,0.520,0.078,False,False,False,False,False,0.18
+R0075870,plus,232,231.06,1.6042,1.6459,232.0000,0.200,0.000,29.903,0.003,True,False,False,True,True,7.6
+R0075870,minus,230,231.06,1.6042,1.6459,230.0000,0.000,0.000,0.298,0.039,False,False,False,False,False,7.6
+R0075881,plus,218,217.07,1.5562,1.5979,218.0000,0.900,0.000,123.205,0.064,True,False,False,True,True,0.16
+R0075881,minus,216,217.07,1.5562,1.5979,216.0000,0.000,0.000,1.486,0.157,False,False,False,False,False,0.16
