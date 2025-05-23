@@ -24,11 +24,12 @@ This pipeline addresses yield computation by:
     * Peak confirmation report saved → ms_peak_matches_with_yield.csv  
 
 
-📂 data/ # LCMS/UV data files for each reaction and molecular_weights.json file with the molecular weights of expected products
+📂 data/  
 - molecular_weights.json # Molecular weights of expected products
-- R5985_MS_minus.csv
-- R5985_MS_plus.csv
-- R5985_PDA.csv
+- example of LCMS and UV data files:
+   * R5985_MS_minus.csv
+   * R5985_MS_plus.csv
+   * *R5985_PDA.csv
 
 ## ⚙️ estimate_yields.py
 
