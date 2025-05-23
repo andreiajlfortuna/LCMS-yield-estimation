@@ -16,12 +16,12 @@ This pipeline addresses yield computation by:
 
 ### Main script for yield estimation
 - estimate_yields.py
-    Standard peak detection results saved to 'peak_detection_standard.csv'
-    Reaction peak detection results saved to 'peak_detection_reaction.csv'
-    Yield results saved to 'reaction_yield.csv'
+    * Standard peak detection results saved to 'peak_detection_standard.csv'
+    * Reaction peak detection results saved to 'peak_detection_reaction.csv'
+    * Yield results saved to 'reaction_yield.csv'
   
 - find_MS_peaks.py
-    Peak confirmation report saved → ms_peak_matches_with_yield.csv  
+    * Peak confirmation report saved → ms_peak_matches_with_yield.csv  
 
 
 📂 data/ # LCMS/UV data files for each reaction and molecular_weights.json file with the molecular weights of expected products
