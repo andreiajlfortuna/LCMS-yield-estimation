@@ -8,7 +8,7 @@ from scipy.signal import find_peaks
 from multiprocessing import Pool
 
 class OutputFile(Enum):
-    STD = "peak_detection_results.csv"      # Output for standard peak detection results
+    STD = "peak_detection_standard.csv"      # Output for standard peak detection results
     RXN = "peak_detection_reaction.csv"     # Output for reaction peak detection results
     YIELD = "reaction_yield.csv"             # Output for calculated reaction yields
 
