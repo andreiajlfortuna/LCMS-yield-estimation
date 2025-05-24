@@ -27,9 +27,12 @@ This pipeline addresses yield computation by:
 📂 data/  
 - molecular_weights.json # Molecular weights of expected products
 - example of LCMS and UV data files:
-   * R5985_MS_minus.csv
-   * R5985_MS_plus.csv
-   * R5985_PDA.csv
+   * R0029_MS_minus.csv
+   * R0029_MS_plus.csv
+   * R0029_PDA.csv
+   * R0029_std_MS_minus.csv
+   * R0029_std_MS_plus.csv
+   * R0029_std_PDA.csv
 
 ## ⚙️ estimate_yields.py
 
